@@ -12,6 +12,7 @@
 <body>
 
 <div id="app" class="flex min-h-screen m-auto flex-col">
+HELLO
     <div class="pb-16 flex flex-col justify-center w-full max-w-4xl mx-auto flex-grow">
         <div class="mx-auto">
             <a href="/">
